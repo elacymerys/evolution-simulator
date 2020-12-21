@@ -1,0 +1,5 @@
+Average number of animals: 27.0
+Average number of tufts of grass: 91.0
+Average dominant gene: 3
+Average energy level: 21.0
+Average number of children: 0.0
